@@ -3,5 +3,6 @@ public class Foo {
 		System.out.println("foo");
 		System.out.println("foo 2");
 		System.out.println("foo 3");
+		System.out.println("foo 4");
 	}
 }
